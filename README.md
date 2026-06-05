@@ -4,15 +4,6 @@
 
 This project presents an end-to-end customer analytics solution built in Power BI to uncover patterns in customer spending behavior, purchasing frequency, income distribution, and loyalty performance.
 
-<img width="545" height="332" alt="Screenshot 2026-06-02 033859" src="https://github.com/user-attachments/assets/9a7cc7df-3f57-4922-8276-0a27214973c2" /><img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/bf9bb22b-4692-4dfc-b618-c519cf93401e" />
-<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/e2c7989b-c00e-429c-9edb-1e02ae03c7c9" />
-<img width="545" height="332" alt="Screenshot 2026-06-02 033859" src="https://github.com/user-attachments/assets/bedcd9fa-e98a-4833-abbf-19dcd2c5ae34" />
-<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/45b26a3f-4bc3-42c9-8afc-5aa27dbf2b0a" />
-<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/4bd63f1f-fa1b-4604-80d5-1cf4e05f7960" />
-<img width="545" height="332" alt="Screenshot 2026-06-02 033859" src="https://github.com/user-attachments/assets/e5cc62ff-9d53-4399-a90e-40dd8d527bb3" />
-<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/6317c281-fbc7-4623-9d0f-b19a4ca230ab" />
-
-
 The project consists of two interactive dashboards:
 
 1. **Customer Segmentation Overview**
@@ -470,14 +461,15 @@ This project demonstrates proficiency in:
 
 ### Customer Segmentation Overview
 
-![Customer Segmentation Dashboard](images/customer_segmentation_dashboard.png)<img width="545" height="332" alt="Screenshot 2026-06-02 033859" src="https://github.com/user-attachments/assets/3902e31f-2269-49b5-9134-9efedf08d71b" />
-<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/66e80b4e-b989-4aa3-9dbd-75335a5ddc42" />
+![Customer Segmentation Dashboard](imaimg width="508" height="313" alt="Screenshot 2026-06-02 034610" src="https://github.com/user-attachments/assets/8925112b-976d-442c-9860-f28e5deba535" />ges/customer_segmentation_dashboard.png)<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/bb248f69-c497-4215-86b1-e85793ff01ed" />
+
 
 
 
 ### Customer Spending Score Dashboard
 
-![Customer Spending Dashboard](images/customer_spending_dashboard.png)
+![Customer Spending Dashboard](images/<img width="545" height="332" alt="Screenshot 2026-06-02 033859" src="https://github.com/user-attachments/assets/01afdb04-da92-4f56-9ec9-5888e0bd7193" />
+customer_spending_dashboard.png)
 
 ---
 
@@ -489,9 +481,11 @@ Aspiring Data Analyst | Power BI Developer
 
 ### Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-profile
+- LinkedIn: www.linkedin.com/in/amuchuoka-adaobi-lilian-1492492a6
 - GitHub: github.com/yourusername
-- Email: your-email@email.com
+- Email: amuchuokaadaobi@gmail.com<
+
+
 
 ---
 ⭐ If you found this project interesting, feel free to star the repository and connect with me.
