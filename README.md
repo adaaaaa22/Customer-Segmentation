@@ -458,11 +458,15 @@ This project demonstrates proficiency in:
 ---
 
 # 📷 Dashboard Preview
+# 📊 Customer Segmentation & Spending Score Analysis
+<img width="508" height="313" alt="Screenshot 2026-06-02 034610" src="https://github.com/user-attachments/assets/6dc8e509-f4ce-4be3-b052-df6a864a1b3c" />
+
+
+![Combined Dashboard](Images/Combined_Dashboard.png)
 
 ### Customer Segmentation Overview
 
-![Customer Segmentation Dashboard](imaimg width="508" height="313" alt="Screenshot 2026-06-02 034610" src="https://github.com/user-attachments/assets/8925112b-976d-442c-9860-f28e5deba535" />ges/customer_segmentation_dashboard.png)<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/bb248f69-c497-4215-86b1-e85793ff01ed" />
-
+![Customer Segmentation Dashboard](/>ges/customer_segmentation_dashboard.png)<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/bb248f69-c497-4215-86b1-e85793ff01ed" />
 
 
 
