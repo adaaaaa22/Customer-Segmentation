@@ -458,22 +458,19 @@ This project demonstrates proficiency in:
 ---
 
 # 📷 Dashboard Preview
+
 # 📊 Customer Segmentation & Spending Score Analysis
 <img width="508" height="313" alt="Screenshot 2026-06-02 034610" src="https://github.com/user-attachments/assets/6dc8e509-f4ce-4be3-b052-df6a864a1b3c" />
 
-
-![Combined Dashboard](Images/Combined_Dashboard.png)
 
 ### Customer Segmentation Overview
 
 ![Customer Segmentation Dashboard](/>ges/customer_segmentation_dashboard.png)<img width="545" height="333" alt="Screenshot 2026-06-02 034817" src="https://github.com/user-attachments/assets/bb248f69-c497-4215-86b1-e85793ff01ed" />
 
 
-
 ### Customer Spending Score Dashboard
 
 ![Customer Spending Dashboard](images/<img width="545" height="332" alt="Screenshot 2026-06-02 033859" src="https://github.com/user-attachments/assets/01afdb04-da92-4f56-9ec9-5888e0bd7193" />
-customer_spending_dashboard.png)
 
 ---
 
@@ -481,7 +478,7 @@ customer_spending_dashboard.png)
 
 **Adaobi Lilian Amuchuoka**
 
-Aspiring Data Analyst | Power BI Developer
+Data Analyst | Power BI Developer
 
 ### Connect With Me
 
